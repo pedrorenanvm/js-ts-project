@@ -1,0 +1,149 @@
+[33mcommit 73dbdf69a9319cfd41e8b740e0f8bf5daf8b09a0[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/user[m[33m, [m[1;31morigin/feature/user[m[33m)[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 12:19:09 2024 -0300
+
+    feat: add deleted user verification in database
+
+[33mcommit 919f71cb2e582106371ea5ad2b6b9e6f4309a886[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 12:15:44 2024 -0300
+
+    feat: add delete in UserController and delete endpoint in user.routes
+
+[33mcommit 80407293ede8205b28bd56206231a808fc18c5ba[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 12:11:11 2024 -0300
+
+    feat: add DeleteUserService service for user deletion
+
+[33mcommit c35bcf2774d54287357734bc6fda84da91311f64[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 12:08:06 2024 -0300
+
+    refactor: add url pattern in routes
+
+[33mcommit 29c143ba11eb82e185f7a096185cbc85b65411ed[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 10:30:15 2024 -0300
+
+    feat: add users.routes route file and users route to main routes file
+
+[33mcommit 15c6b85ea88ebcb24de983d471a6c074410b76f7[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 10:27:18 2024 -0300
+
+    feat: add controller UsersController
+
+[33mcommit 642bf1f7ef32d509b464ee5cffb0e85ba958c3d4[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Fri Nov 1 10:26:06 2024 -0300
+
+    feat: add service createUser
+
+[33mcommit 93893f88044184d9f7a281d92a37fefc54aa8546[m[33m ([m[1;31morigin/feature/authentication[m[33m, [m[1;31morigin/feat/authentication[m[33m, [m[1;32mfeature/authentication[m[33m, [m[1;32mfeat/authentication[m[33m)[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:22:34 2024 -0300
+
+    feat:add sessions routes
+
+[33mcommit ad0f388f1d9ccea8fd1a7ee0b49d67ab5dcb8cc2[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:21:49 2024 -0300
+
+    feat:add section controller
+
+[33mcommit 8907da157bfac69f21d29ec87ca38ac27c99ae12[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:21:06 2024 -0300
+
+    feat:add create section service
+
+[33mcommit 88cb216cccc403d9348c5d33b328ecf8fe70f03c[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:20:00 2024 -0300
+
+    feat:add UserRepository and UserTokenRepository
+
+[33mcommit 464988391fa2920447ac26f8683bb320f689fcb2[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:19:01 2024 -0300
+
+    feat:add User and UserToken entities
+
+[33mcommit 5d8e705511627727f0eef1c4676563536009a382[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:15:19 2024 -0300
+
+    feat:adds Users and UserToken migrations
+
+[33mcommit a8a83c4a7d9e463596ea71b4912fb3497225cbf7[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:11:33 2024 -0300
+
+    feat: add authentication middleware and jwt variables
+
+[33mcommit 57bb9d2ea663947de26dd849b70ce84f64fa325b[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Thu Oct 31 18:05:09 2024 -0300
+
+    refactor:changing files to default configuration to use
+
+[33mcommit 396f147eb9b030f01e11ea9691068430f719f5b6[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 36f9495 ba84d21
+Author: Geyse Evelyn <55860462+geyseevelyn@users.noreply.github.com>
+Date:   Thu Oct 31 09:54:32 2024 -0300
+
+    Merge pull request #4 from geyseevelyn/hotfix/initial-setup
+    
+    Fix initial setup
+
+[33mcommit ba84d21fc83a3c6f2cb006902d86d3b5e8a0a902[m[33m ([m[1;31morigin/hotfix/initial-setup[m[33m)[m
+Author: geyseevelyn <geyseevelynod@gmail.com>
+Date:   Thu Oct 31 09:51:17 2024 -0300
+
+    chore(project): add lint config
+
+[33mcommit 67c4170a37c4842f85adecd1163c5226feb3bd38[m
+Author: geyseevelyn <geyseevelynod@gmail.com>
+Date:   Thu Oct 31 08:11:10 2024 -0300
+
+    chore(project): fix initial setup
+
+[33mcommit 36f9495357adb846e3f3c4653077d4a5ffe2f4cf[m
+Merge: a8f3bef 08bdb4d
+Author: Geyse Evelyn <55860462+geyseevelyn@users.noreply.github.com>
+Date:   Wed Oct 30 18:32:56 2024 -0300
+
+    Merge pull request #3 from geyseevelyn/main
+    
+    Merge pull request #1 from geyseevelyn/chore/initial-setup
+
+[33mcommit a8f3beff0af7fb64f85284cb1a1a4ee74c9f5a91[m
+Merge: 0d6b274 9d73652
+Author: Pedro Renan <47723208+pedrorenanvm@users.noreply.github.com>
+Date:   Wed Oct 30 16:31:18 2024 -0300
+
+    Merge pull request #2 from geyseevelyn/chore/initial-setup
+    
+    chore(project): initialize project with basic structure
+
+[33mcommit 08bdb4d4bcc46fc430ddb23fe6912bfe1e9bd617[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 0d6b274 9d73652
+Author: Pedro Renan <47723208+pedrorenanvm@users.noreply.github.com>
+Date:   Wed Oct 30 15:35:16 2024 -0300
+
+    Merge pull request #1 from geyseevelyn/chore/initial-setup
+    
+    initial project setup
+
+[33mcommit 9d7365270b3abdfbff02ac09724fea7091908ee2[m[33m ([m[1;31morigin/chore/initial-setup[m[33m)[m
+Author: Pedro Renan <pedroviana15094@gmail.com>
+Date:   Wed Oct 30 15:32:15 2024 -0300
+
+    chore(project): initialize project with basic structure
+
+[33mcommit 0d6b274cd2035897cb89a73827a305f329262880[m
+Author: Geyse Evelyn <55860462+geyseevelyn@users.noreply.github.com>
+Date:   Mon Oct 28 15:13:34 2024 -0300
+
+    Initial commit
